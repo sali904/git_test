@@ -1,0 +1,3 @@
+hello world! <3
+i'm a budding front-end developer learning through the odin project!
+nice to meet you all! 
